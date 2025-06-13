@@ -1,8 +1,4 @@
-# React + Vite
+# Token Launchpad App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A modern simple web application for launching and managing tokens on the Solana blockchain.
+This application provides a user-friendly interface for token creation, management, and interaction with the Solana network.
